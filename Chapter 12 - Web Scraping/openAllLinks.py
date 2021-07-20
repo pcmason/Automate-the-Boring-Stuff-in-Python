@@ -7,7 +7,6 @@ Created on Mon Jul 12 16:21:14 2021
 @author: paulmason
 
 program that will open all links on a page in separate browser tabs
-this will need bs4, which I have not went over yet so cannot complete
 
 there will be two ways this program can be run:
     1. using the constant link for Sweigart's Automate the Boring Stuff's About page: https://inventwithpython.com/about.html
